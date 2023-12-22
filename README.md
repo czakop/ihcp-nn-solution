@@ -36,7 +36,14 @@ only coarse data is available to train the model, thus making the generalization
 even more difficult ([hc_utils.py](https://github.com/czakop/ihcp-nn-solution/blob/master/src/hc_utils.py) and [refinement.ipynb](https://github.com/czakop/ihcp-nn-solution/blob/master/src/refinement.ipynb)).
 
 ## Designed model architecture
+### High level architecture
 ![high_level_architecture](https://github.com/czakop/ihcp-nn-solution/blob/master/img/high_level_architecture.png)
+
+### Convolutional block
 ![conv_block](https://github.com/czakop/ihcp-nn-solution/blob/master/img/conv_block.png)
+
+### Training architecture
 ![training_architecture](https://github.com/czakop/ihcp-nn-solution/blob/master/img/training_architecture.png)
+
+### Autoencoder
 ![autoencoder](https://github.com/czakop/ihcp-nn-solution/blob/master/img/autoencoder.png)
