@@ -1,5 +1,5 @@
 # Neural network solution of the inverse heat conduction problem
-This repository contains the code used in [my thesis](https://github.com/czakop/ihcp-nn-solution/blob/master/thesis.pdf) (Spring 2023).
+This repository contains the code used in [my thesis](https://github.com/czakop/ihcp-nn-solution/blob/master/thesis.pdf).
 
 ## Abstract
 This thesis presents a novel approach to address the Inverse Heat Conduction
